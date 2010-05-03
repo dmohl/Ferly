@@ -1,0 +1,1 @@
+This is a simple example of integration between F# and Erlang using OTP.NET.  It provides a simple command line interface for Querly.
