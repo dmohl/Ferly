@@ -1,0 +1,8 @@
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Ferly\Ferly\bin\Debug\Ferly.XML
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Ferly\Ferly\bin\Debug\Ferly.exe
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Ferly\Ferly\bin\Debug\Ferly.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Ferly\Ferly\bin\Debug\Otp.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Ferly\Ferly\bin\Debug\Otp.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Ferly\Ferly\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Ferly\Ferly\obj\x86\Debug\Ferly.exe
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\Ferly\Ferly\obj\x86\Debug\Ferly.pdb
